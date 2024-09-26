@@ -8,7 +8,7 @@ ScratchJr is an introductory programming language that enables young children (a
 ## Getting Started
 To start using ScratchJr, download the app
 * ScratchJr is available as a free app for iPads, Android tablets, and Chromebooks.
-* As for Scratch JR for Desktop, visit the following [site](https://jfo8000.github.io/ScratchJr-Desktop/)
+* As for Scratch JR for Desktop, visit the following [site](https://jfo8000.github.io/ScratchJr-Desktop/) to download. You can follow along the following [instructions](https://www.youtube.com/watch?v=Wz7LiVYL2UE)
 
 ## Resources
 - Interface Guide: [Explore the ScratchJr Interface](https://scratchjr.org/learn/interface)
@@ -16,6 +16,10 @@ To start using ScratchJr, download the app
 - Blocks Description: [Discover the Different Blocks](https://scratchjr.org/learn/blocks)
 - Tips and Hints: [Useful Tips as You Explore ScratchJr](https://scratchjr.org/learn/tips)
 - Activities Guide: [Learn how to Engage with the Activities](https://www.youtube.com/watch?v=ciWPaEgscr0)
+
+## Key Terms
+1. **Blocks**: Blocks are the fundamental elements of ScratchJr. Each block represents a specific action or command that can be combined to create sequences of instructions for the characters.
+2. **Characters/Sprites**: The figures or objects that perform actions in a project. They represent the main actors in your stories or games and can be customized in various ways.
 
 ## Learning Projects
 Here are some projects to learn with:
