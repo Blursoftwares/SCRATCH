@@ -3,7 +3,7 @@
 Scratch is a visual programming language that enables young people to create their own interactive games, stories, and animations by connecting together programming blocks. Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing (Accessible to all, helping to close the gap between different groups of people in tech.).
 
 ## Getting Started
-* To start using Scratch, download the app
+* To start using Scratch, you can download the Scratch app using the following [instructions](https://scratch.mit.edu/download)
 * Scratch is also available as a web application, where one can create their own account. You can use this [link](https://scratch.mit.edu) to access the Scratch documentation and web application.
 
 ## Useful Resources
